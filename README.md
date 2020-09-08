@@ -25,4 +25,4 @@ You may have noticed that I also gave you the download links as well.
 This is because I'm not gonna make you search for years just to find your specified dll in this list.
 
 ## Help Out
-If you want to *help out*, then you can go to [Contact](../blob/master#Contact "Contact Me")
+If you want to *help out*, then you can go to [Contact](../master#Contact "Contact Me")
